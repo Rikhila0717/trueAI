@@ -1,0 +1,25 @@
+# Core libraries
+torch
+transformers
+datasets
+faiss-cpu
+spacy
+jinja2
+sentence-transformers
+accelerate
+bitsandbytes
+
+# Utilities & evaluation
+scikit-learn
+evaluate
+pandas
+tqdm
+rich
+
+# LLM APIs & demo
+openai
+streamlit
+flask
+
+# Configuration
+python-dotenv
