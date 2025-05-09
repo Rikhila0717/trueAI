@@ -12,4 +12,5 @@ conda activate trueAI
 2. Install the required dependencies from requirements.txt and spaCy English model
 pip install -r requirements.txt
 python3 -m spacy download en_core_web_sm
+
 3. 
