@@ -8,18 +8,22 @@ jinja2
 sentence-transformers
 accelerate
 bitsandbytes
-
+chromadb
 # Utilities & evaluation
 scikit-learn
 evaluate
 pandas
 tqdm
 rich
+numpy
 
 # LLM APIs & demo
 openai
 streamlit
 flask
+nltk
+matplotlib
+json
 
 # Configuration
 python-dotenv
